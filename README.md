@@ -1,4 +1,4 @@
-
+![welcome_page](IMAGES/welcome_page.png)
 
 
 Hi 👋, I'm Mohamed Jakkiriya
