@@ -12,7 +12,7 @@ Data Analyst Enthusiast
 ⚡ Fun fact even Commerce background can become data analyst😊
 
 Connect with me:
-www.linkedin.com/in/megha-kiran-22889b220
+www.linkedin.com/in/mohamedjakkiriya
 
 Languages and Tools:
 mysql python EXCEL Power BI
